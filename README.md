@@ -18,4 +18,4 @@ Script Roblox untuk **meng-copy seluruh map/game** secara otomatis menggunakan `
 ## 📥 Cara Menggunakan (Loadstring)
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Senzugokilll/copymap/main/CopyMapByKawara.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/senzugokilll/copymap/main/CopyMapByKawara.lua"))()
