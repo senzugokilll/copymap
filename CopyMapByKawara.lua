@@ -30,7 +30,7 @@ local Options = {
     SaveTerrain = false,
     DecompileScripts = true,
     SaveBytecode = true,           -- Disarankan false agar lebih cepat
-    SafeMode = true,
+    SafeMode = false,
     Timeout = 100,
     
     -- Extra Options (UniversalSynSaveInstance)
