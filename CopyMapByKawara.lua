@@ -27,7 +27,7 @@ local Timestamp = os.date("%Y%m%d_%H%M%S")
 
 local Options = {
     Name = "COPYMAP_" .. GameName .. "_" .. Timestamp,
-    SaveTerrain = false,
+    SaveTerrain = true,
     DecompileScripts = true,
     SaveBytecode = true,           -- Disarankan false agar lebih cepat
     SafeMode = false,
