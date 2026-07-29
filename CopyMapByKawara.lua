@@ -35,7 +35,7 @@ local Options = {
     
     -- Extra Options (UniversalSynSaveInstance)
     RemoveLocked = true,
-    RemoveScripts = false,          -- Ubah jadi true jika tidak mau ikut script
+    RemoveScripts = true,          -- Ubah jadi true jika tidak mau ikut script
     IncludeServices = true,
 }
 
